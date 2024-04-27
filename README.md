@@ -19,16 +19,16 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 ```
 
 ### VEJA ALGUMAS FOTOS
-**Home: **
+**Home:**
 ![HomePage](https://github.com/AndreSilvazm/DalyGames/blob/main/public/Home.PNG)
 
 **Pagina de jogo:**
 ![HomePage](https://github.com/AndreSilvazm/DalyGames/blob/main/public/gamePage.PNG)
 
-**Tela de Perfil: **
+**Tela de Perfil:**
 ![HomePage](https://github.com/AndreSilvazm/DalyGames/blob/main/public/profilePage.PNG)
 
-**Pagina de Search: **
+**Pagina de Search:**
 ![HomePage](https://github.com/AndreSilvazm/DalyGames/blob/main/public/searchPage.PNG)
 
 ## 📦 Implantação
